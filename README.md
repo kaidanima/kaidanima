@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nima Kaidan
-- 👀 I’m interested in frontend web developing.
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on HTML and CSS
+- 👀 I’m doing DevOps_Jr
+- 🌱 I’m currently learning DevOps
+- 
 - 📫 How to reach me is via my e-mail address: nimakaydan@gmail.com
 
 <!---
