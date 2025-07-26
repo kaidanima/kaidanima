@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nima Kaidan
-- 👀 I’m doing DevOps_Jr
+- 👀 I’m doing DevOps
 - 🌱 I’m currently learning DevOps
 - 
 - 📫 How to reach me is via my e-mail address: nimakaydan@gmail.com
